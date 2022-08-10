@@ -1,16 +1,4 @@
-# teamnineapp
+# Cleansea App
 
-A new Flutter project.
+As part of the FutureMaker summer program capstone project, my team created Cleansea - an app which classifies plastic debris using a CNN model and then stores it in a database. This app allows anyone to become a citizen scientist as all they need to do is take a picture and then that picture will be submitted to our database which can be used by researchers, clean-up iniatives, companies and more.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
