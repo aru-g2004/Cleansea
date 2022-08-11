@@ -9,5 +9,7 @@ Software Development Framework: Flutter<br/>
 Note:
 The lib folder has all the code for each app screen.
 
+Link to App Demo Video
 
+[![Watch the video]()](https://www.youtube.com/watch?v=ILKyErhdUdg)
 
