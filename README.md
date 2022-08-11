@@ -6,3 +6,8 @@ IDE: Andriod Studios<br/>
 Language: Dart<br/>
 Software Development Framework: Flutter<br/>
 
+Note:
+The lib folder has all the code for each app screen.
+
+
+
