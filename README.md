@@ -11,4 +11,5 @@ The lib folder has all the code for each app screen.
 
 Link to App Demo Video: https://www.youtube.com/watch?v=ILKyErhdUdg
 Link to Machine Learning Model Info: https://github.com/TheClassicTechno/cleansea_model
+Link to Colab Notebooks that I worked on During the program: https://github.com/aru-g2004/FutureMakers2022
 
