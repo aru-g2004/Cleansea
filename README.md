@@ -9,6 +9,10 @@ Software Development Framework: Flutter<br/>
 Note:
 The lib folder has all the code for each app screen.
 
+## Click below to see the CleanSea pitch:
+[![Cleansea app pitch](https://github.com/aru-g2004/Cleansea/assets/79277193/30570c40-da63-4ad8-a0fb-e72685aec5b6)](https://www.youtube.com/watch?v=RptPnlsFSCg)
+
+
 ## Click below to see the app demo:
 [![Cleansea app demo](https://img.youtube.com/vi/ILKyErhdUdg/0.jpg)](https://www.youtube.com/watch?v=ILKyErhdUdg)
 
